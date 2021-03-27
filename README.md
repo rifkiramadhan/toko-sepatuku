@@ -10,3 +10,5 @@
 [Irvan Bahtiar Evendi](https://github.com/irvanbahtiar356)
 <br>
 [Agung Surya Nugraha](https://github.com/a-sa-n79914091)
+
+GitHub Pages: https://rifkiramadhan.github.io/toko-sepatuku/
